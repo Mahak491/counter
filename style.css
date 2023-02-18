@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+#counter{
+    padding: 5rem;
+    margin: 5rem;
+    background-color: burlywood;
+    border-radius: 1rem;
+}
+
+#number{
+   font-weight: bolder;
+   padding: 0.5rem;
+}
+
+#increment,#decrement{
+    margin: 2rem;
+    border-radius: 1rem;
+}
+
+h1{
+    padding-top: 2rem;
+}
+
+h1:hover{
+  color: whitesmoke;
+}
